@@ -1,7 +1,9 @@
 # Movies-By-the-Sea
 Movie review blog site with public API
 
-**Github Project** : [github.com/Movies-By-the-Sea](https://github.com/Movies-By-the-Sea)
+**Backend Server** : [github.com/Saumya-Bhatt/mbts-backend](https://github.com/Saumya-Bhatt/mbts-backend) <br>
+**Admin Control Panel** : [github.com/Saumya-Bhatt/mbts-control-plus-analytics](https://github.com/Saumya-Bhatt/mbts-control-plus-analytics) <br>
+**Web-Frontend** : [github.com/Saumya-Bhatt/mbts-frontend-web](https://github.com/Saumya-Bhatt/mbts-frontend-web)
 
 ## Architecture
 
