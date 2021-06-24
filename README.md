@@ -17,8 +17,9 @@ Main frontend site will have read only privilages. Backend API will take the dat
 
 1. **Web-Frontend** : ReactJS, tailwind.css <br>
 2. **Backend** : NodeJS, Express <br>
-3. **Database** : NoSQL (Google Firebase) <br>
+3. **Database** : Document-based (Google Firebase firestore) <br>
 4. **Admin + Analytics** : Streamlit (Python) <br>
+5. **External APIs** : Facebook Graph API
 
 ### Authentication
 
